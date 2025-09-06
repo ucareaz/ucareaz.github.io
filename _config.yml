@@ -6,24 +6,27 @@
 #REQUIRED
 org_name: UCARE AZ
 org_summary: > # Enter your summary on the next line. Be sure to indent by two spaces.
-  UCARE is a non-profit corporation and is operated exclusively for educational and development purpose within the meaning of section 501(c)(3)of the IR Code of 1986.Our mission is to empower and inspire youth through education, service, and leadership. We create opportunities for transformation by organizing science camps, book drives for schools, and medical awareness initiatives. Partnering with schools, community organizations, and service institutions, we channel resources and support to help young people build confidence, responsibility, and compassion. Rooted in purpose and driven by service, we are dedicated to reshaping futures and making a lasting impact—one child, one community at a time 
+  A Young group actively  helping local communities;
+  UCARE is a non-profit corporation and should be operated exclusively for educational and development purpose within the meaning of section 501(c)(3)of the IR Code of 1986. It aims to develop youth leadership via workshops and volunteer activities.;
 org_full_description: > # Enter your description on the next line. Be sure to indent by two spaces.
   Our nonprofit organization is dedicated to empowering individuals and groups to actively engage in meaningful service within their local communities. We focus on creating lasting impact through compassionate outreach to underserved populations, including senior citizens in care homes, Native Tribes, families facing hunger, and children with limited access to educational resources such as books. By fostering collaboration, inclusivity, and volunteer-driven initiatives, we strive to build stronger, more connected communities. Our programs are designed to meet immediate needs while promoting long-term support and awareness, ensuring that no voice is unheard and no need goes unmet. Together, we believe in the power of people helping people—one community at a time.
+  
+#OPTIONAL
 #Non US-address support coming soon
-org_general_email_inbox: ucarearizona@gmail.com
+org_general_email_inbox: ally99.xu@gmail.com
 org_street_address: 1771 W maplewood Pl #Please include suite number on the line below
-org_address_suite: .
+org_address_suite: 
 org_city: Chandler 
 org_state: AZ
 org_zip: > # Enter zip on next line. Be sure to indent by two spaces.
   85286
 org_phone: > # Enter phone on next line. Be sure to indent by two spaces.
-  (480) 603-6722
+  (480) 818-5676
 
 #SOCIAL MEDIA
-org_twitter_username: ucare.arizona
-org_facebook_username: ucare.arizona
-org_instagram_username:ucare.arizona
+org_twitter_username: ucareaz
+org_facebook_username: ucareaz
+org_instagram_username:
 
 #TAX STATUS
 #Your site will display an appropriate message below the Donate section
